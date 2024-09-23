@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Local test
+l_test
+
+# VS code
+.vscode
+bin
+
+# MacOS
+**/.DS_Store
